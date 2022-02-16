@@ -23,6 +23,13 @@ Install project dependencies.
 $ pip install selenium
 ```
 
+Enter account information and stream link to config.json
+You may input many accounts but at this time only one stream. 
+
+<p align="center">
+    <img width="200" alt="demo-image" src="https://i.imgur.com/q2E3DEl.png">
+</p>
+
 Run the app!
 
 ```
