@@ -2,6 +2,12 @@
 
 This is a basic chat bot that sends messages to a live chat a specified link to have a party!
 
+## Demo
+
+<p align="center">
+    <img width="200" alt="demo-image" src="https://i.imgur.com/z0QeQgL.png">
+</p>
+
 ## Installation 
 
 Clone this project to a desired local folder. 
