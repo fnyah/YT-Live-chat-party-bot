@@ -5,7 +5,7 @@ This is a basic chat bot that sends messages to a live chat a specified link to 
 ## Demo
 
 <p align="center">
-    <img width="200" alt="demo-image" src="https://i.imgur.com/z0QeQgL.png">
+    <img width="400" alt="demo-image" src="https://i.imgur.com/z0QeQgL.png">
 </p>
 
 ## Installation 
