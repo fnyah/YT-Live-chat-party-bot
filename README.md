@@ -1,4 +1,4 @@
-# Youtube Live party bot
+# Youtube Live Party Bot
 
 This is a basic chat bot that sends messages to a live chat a specified link to have a party!
 
